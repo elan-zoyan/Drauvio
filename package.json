@@ -1,6 +1,8 @@
+
 {
   "name": "Drauvio",
   "private": true,
+  "packageManager": "pnpm@10",
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev",
@@ -15,12 +17,6 @@
   },
   "engines": {
     "node": ">=24"
-  },
-  "devEngines": {
-    "packageManager": {
-      "name": "npm",
-      "version": "11.19.1"
-    }
   },
   "workspaces": [
     "apps/*",
