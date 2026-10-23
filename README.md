@@ -25,16 +25,6 @@ DRauvio aims to bridge the gap between imagination and creation by combining int
 - **User Accounts:** Build a personalized creative space.
 - **Continuous Innovation:** Introduce new tools and AI capabilities as the platform evolves.
 
-*Features are planned and may evolve throughout development.*
-
-## Technology
-
-DRauvio is being developed with a modern technology stack focused on performance, maintainability, and scalability.
-
-- **Frontend:** Next.js and TypeScript
-- **Backend:** Python and FastAPI
-- **Database:** PostgreSQL
-- **AI Integration:** Hosted AI services, with the possibility of custom AI models in the future
 
 ## Mission
 
