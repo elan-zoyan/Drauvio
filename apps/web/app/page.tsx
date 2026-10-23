@@ -2,7 +2,7 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div className=''>
+    <div className='text-2xl'>
           Welcome to Drauvio
     </div>
   )
